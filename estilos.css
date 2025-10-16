@@ -9,7 +9,16 @@ body{
 
 #titulo{
   text-align:center;
-  font-family:Arial Black;;
+  font-family:Arial Black;
   color:#053B28;
+  align-content:
+}
+
+#Mundilibb{
+    text-align:left;
+  font-family:Arial Black;
+  color:#053B28; 
+  align-content:
+}
   
   
