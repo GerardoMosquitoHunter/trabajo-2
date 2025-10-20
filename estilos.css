@@ -11,14 +11,19 @@ body{
   text-align:center;
   font-family:Arial Black;
   color:#053B28;
-  align-content:
+  align-content:center;
 }
 
 #Mundilibb{
     text-align:left;
   font-family:Arial Black;
   color:#053B28; 
-  align-content:
+  align-content:stretch;
 }
-  
-  
+
+#Recuerdos{
+    text-align:left;
+  font-family:Arial Black;
+  color:#053B28;
+  align-content:stretch;
+}
